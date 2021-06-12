@@ -1,7 +1,7 @@
 
 function preload() {
     //load the images here
-    bgimg=loadImage("images/garden.png")
+    bgimg=loadImage("garden.png")
 }
 
 function setup(){
